@@ -1,0 +1,160 @@
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['class_name', 'menu-list'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['class_name', 'menu-list'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['class_name', 'menu-list'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['class_name', 'menu-list'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['class_name', 'menu-list'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 账号管理 
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:普通用户 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 115]set accountUsername:hyxxnq success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 121]set accountName:汉阳信息内勤 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 128]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 134]set accountConfiremPassword:11 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 178]close dialog failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search hyxxnq
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:普通用户 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 115]set accountUsername:hyxxky1 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 121]set accountName:汉阳信息科员1 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 128]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 134]set accountConfiremPassword:11 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 178]close dialog failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search hyxxky1
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:普通用户 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 115]set accountUsername:hyxxky2 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 121]set accountName:汉阳信息科员2 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 128]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 134]set accountConfiremPassword:11 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 178]close dialog failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search hyxxky2
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:普通用户 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 115]set accountUsername:hyxxzr success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 121]set accountName:汉阳信息主任 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 128]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 134]set accountConfiremPassword:11 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 178]close dialog failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search hyxxzr
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:普通用户 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 115]set accountUsername:hyscnq success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 121]set accountName:汉阳审查内勤 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 128]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 134]set accountConfiremPassword:11 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 178]close dialog failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search hyscnq
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:普通用户 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 115]set accountUsername:hyscky1 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 121]set accountName:汉阳审查科员1 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 128]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 134]set accountConfiremPassword:11 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 178]close dialog failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search hyscky1
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:普通用户 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 115]set accountUsername:hyscky2 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 121]set accountName:汉阳审查科员2 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 128]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 134]set accountConfiremPassword:11 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 178]close dialog failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search hyscky2
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:普通用户 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 115]set accountUsername:hysczr success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 121]set accountName:汉阳审查主任 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 128]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 134]set accountConfiremPassword:11 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 178]close dialog failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search hysczr
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:普通用户 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 115]set accountUsername:hyxxcw success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 121]set accountName:汉阳信息常委 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 128]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 134]set accountConfiremPassword:11 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 178]close dialog failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search hyxxcw
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:普通用户 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 115]set accountUsername:hysccw success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 121]set accountName:汉阳审查常委 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 128]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 134]set accountConfiremPassword:11 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 178]close dialog failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search hysccw
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:普通用户 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 115]set accountUsername:hyxxsj success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 121]set accountName:汉阳信息书记 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 128]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 134]set accountConfiremPassword:11 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 178]close dialog failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search hyxxsj
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:普通用户 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 115]set accountUsername:hyscsj success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 121]set accountName:汉阳审查书记 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 128]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 134]set accountConfiremPassword:11 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 178]close dialog failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search hyscsj
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:普通用户 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 115]set accountUsername:hysj success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 121]set accountName:汉阳书记 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 128]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 134]set accountConfiremPassword:11 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 178]close dialog failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search hysj
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 38]successful login 
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['class_name', 'menu-list'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['class_name', 'menu-list'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['class_name', 'menu-list'] ,selector2=None

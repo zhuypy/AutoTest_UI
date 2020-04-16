@@ -1,0 +1,80 @@
+====================================envInit START ,time is 2008_08_15_16_09_21=========================================
+====================================initParam START=========================================
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 37]className is :JCWAutoTest0010
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 38]report_path is :D:\workspace\JCWAutoTest\testJCW\log\JCW\UT20190508
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 39]picture_path is :D:\workspace\JCWAutoTest\testJCW\log\JCW\UT20190508\JCWAutoTest0010
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 40]log_path is :D:\workspace\JCWAutoTest\testJCW\log\JCW\UT20190508\JCWAutoTest0010
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 41]log_file is :D:\workspace\JCWAutoTest\testJCW\log\JCW\UT20190508\JCWAutoTest0010\JCWAutoTest0010.log
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 42]test data is {'login': {'user': 'AT01', 'pwd': '11'}, 'create_userData': {'accountType': '用户管理员', 'accountOrgId': '十堰市纪律检查委员会', 'accountUsername': 'AT02', 'accountName': '朱市管一', 'accountPassword': '11', 'accountConfiremPassword': '11', 'accountIdcard': '111111111111111111', 'accountMobile': '13888888888', 'accountEmail': 'zhuy@qq.com', 'accountAddress': '湖北十堰', 'accountMemo': '测试专用账号，管理员02'}, 'modify_userData': {'accountUsername': 'AT02', 'accountName': '朱市管一1', 'accountIdcard': '111111111111111110', 'accountMobile': '13888888886', 'accountEmail': 'zhuy@360.com', 'accountAddress': '湖北十堰郧县', 'accountMemo': '测试专用账号，管理员002'}, 'recovery_userData': {'accountUsername': 'AT02', 'accountName': '朱市管一', 'accountIdcard': '111111111111111111', 'accountMobile': '13888888888', 'accountEmail': 'zhuy@qq.com', 'accountAddress': '湖北十堰', 'accountMemo': '测试专用账号，管理员02'}}
+====================================initParam END=========================================
+====================================initBrowser START=========================================
+====================================initBrowser END=========================================
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 38]successful login 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 账号管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search AT02
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 204]sameDict is : {'accountUsername': 'AT02 管理员'}
+====================================envInit END=========================================
+====================================executeTest START=========================================
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 账号管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search AT02
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[ERROR][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 80]open dailog of 编辑账号 fail
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 114]set accountUsername:AT02 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 120]set accountName:朱市管一1 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 139]set accountIdcard:111111111111111110 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 145]set accountMobile:13888888886 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 151]set accountEmail:zhuy@360.com success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 157]set accountAddress:湖北十堰郧县 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 163]set accountMemo:测试专用账号，管理员002 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search AT02
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 204]sameDict is : {'accountUsername': 'AT02 管理员', 'accountName': '朱市管一1', 'accountIdcard': '111111111111111110', 'accountMobile': '13888888886', 'accountEmail': 'zhuy@360.com', 'accountMemo': '测试专用账号，管理员002'}
+
+                    @@@@@@@       @@@        @@@
+                  @@@      @@@    @@@      @@@
+                 @@@        @@@   @@@    @@@
+                @@@          @@@  @@@ @@@
+                @@@          @@@  @@@@@
+                @@@          @@@  @@@ @@@
+                 @@@        @@@   @@@    @@@
+                  @@@      @@@    @@@      @@@
+                    @@@@@@@@      @@@        @@@
+        
+====================================executeTest END=========================================
+====================================envRecovery START=========================================
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 账号管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search AT02
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[ERROR][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 80]open dailog of 编辑账号 fail
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 114]set accountUsername:AT02 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 120]set accountName:朱市管一 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 139]set accountIdcard:111111111111111111 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 145]set accountMobile:13888888888 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 151]set accountEmail:zhuy@qq.com success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 157]set accountAddress:湖北十堰 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 163]set accountMemo:测试专用账号，管理员02 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search AT02
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 204]sameDict is : {'accountUsername': 'AT02 管理员', 'accountName': '朱市管一', 'accountIdcard': '111111111111111111', 'accountMobile': '13888888888', 'accountEmail': 'zhuy@qq.com', 'accountMemo': '测试专用账号，管理员02'}
+====================================envRecovery END=========================================

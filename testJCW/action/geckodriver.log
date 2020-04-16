@@ -1,0 +1,30 @@
+1566902356202	geckodriver	INFO	geckodriver 0.19.1
+1566902356208	geckodriver	INFO	Listening on 127.0.0.1:56555
+1566902359247	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\zxq\\AppData\\Local\\Temp\\rust_mozprofile.S4GLWiaxFPEq"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1566902360162	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1566902362442	Marionette	INFO	Listening on port 57314
+1566902362516	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1567391306814	geckodriver	INFO	geckodriver 0.19.1
+1567391306830	geckodriver	INFO	Listening on 127.0.0.1:1704
+1567391309996	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\zxq\\AppData\\Local\\Temp\\rust_mozprofile.sERzMSIIqR1L"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1567391310540	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1567391312022	Marionette	INFO	Listening on port 2493
+1567391312174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567391332518	geckodriver	INFO	geckodriver 0.19.1
+1567391332518	geckodriver	INFO	Listening on 127.0.0.1:7712
+1567391335576	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\zxq\\AppData\\Local\\Temp\\rust_mozprofile.OpY0bXJpMTgx"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1567391336086	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1567391337384	Marionette	INFO	Listening on port 8475
+1567391337718	Marionette	WARN	TLS certificate errors will be ignored for this session

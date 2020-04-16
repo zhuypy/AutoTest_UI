@@ -1,0 +1,77 @@
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 44]successful login 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 组织管理 
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 104]dialog title is 添加组织架构
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 110]open dailog of 添加组织架构 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 96]set name:湖北省纪律检查委员会 success
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[4]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[4]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[4]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[4]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[4]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[4]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[4]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[4]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[4]/ul'] ,selector2=None
+[ERROR][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 27]finding element by selector1=['xpath', '/html/body/div[4]/ul'] ,selector2=None failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 96]set superior:{'superior1': '无'} success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 96]set number:001 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 96]set desc:湖北省纪律检查委员会 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 96]set telephone:13888888888 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 96]set address:湖北省 success
+[ERROR][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 98]set addressCode:湖北 fail
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 104]dialog title is 添加组织架构
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 110]open dailog of 添加组织架构 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 96]set name:武汉市纪律检查委员会 success
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[ERROR][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 27]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None failed
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[ERROR][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 27]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 96]set superior:{'superior1': '湖北'} success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 96]set number:002 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 96]set desc:武汉市纪律检查委员会 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 96]set telephone:13888888888 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 96]set address:武汉市 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 96]set addressCode:武汉 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 104]dialog title is 添加组织架构
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 110]open dailog of 添加组织架构 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 96]set name:鄂州市纪律检查委员会 success
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[ERROR][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 27]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None failed
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None
+[ERROR][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 27]finding element by selector1=['xpath', '/html/body/div[3]/ul'] ,selector2=None failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 96]set superior:{'superior1': '湖北'} success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 96]set number:003 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 96]set desc:鄂州市纪律检查委员会 success

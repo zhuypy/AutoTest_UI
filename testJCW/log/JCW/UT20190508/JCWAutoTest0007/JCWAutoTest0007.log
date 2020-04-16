@@ -1,0 +1,45 @@
+====================================envInit START ,time is 2008_08_16_09_00_13=========================================
+====================================initParam START=========================================
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 37]className is :JCWAutoTest0007
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 38]report_path is :D:\workspace\JCWAutoTest\testJCW\log\JCW\UT20190508
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 39]picture_path is :D:\workspace\JCWAutoTest\testJCW\log\JCW\UT20190508\JCWAutoTest0007
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 40]log_path is :D:\workspace\JCWAutoTest\testJCW\log\JCW\UT20190508\JCWAutoTest0007
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 41]log_file is :D:\workspace\JCWAutoTest\testJCW\log\JCW\UT20190508\JCWAutoTest0007\JCWAutoTest0007.log
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 42]test data is {'login': {'user': 'AT01', 'pwd': '11'}, 'userData': {'accountType': '用户管理员', 'accountOrgId': '十堰市纪律检查委员会', 'accountUsername': 'AT02', 'accountName': '朱市管一', 'accountPassword': '11', 'accountConfiremPassword': '11', 'accountIdcard': '111111111111111111', 'accountMobile': '13888888888', 'accountEmail': 'zhuy@qq.com', 'accountAddress': '湖北十堰', 'accountMemo': '测试专用账号，管理员02'}}
+====================================initParam END=========================================
+====================================initBrowser START=========================================
+====================================initBrowser END=========================================
+====================================envInit END=========================================
+====================================executeTest START=========================================
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 38]successful login 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 账号管理 
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:用户管理员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 108]set accountOrgId:十堰市纪律检查委员会 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 114]set accountUsername:AT02 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 120]set accountName:朱市管一 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 127]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 133]set accountConfiremPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 139]set accountIdcard:111111111111111111 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 145]set accountMobile:13888888888 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 151]set accountEmail:zhuy@qq.com success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 157]set accountAddress:湖北十堰 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 163]set accountMemo:测试专用账号，管理员02 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search AT02
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 204]sameDict is : {'accountOrgId': '十堰市纪律检查委员会', 'accountUsername': 'AT02 管理员', 'accountName': '朱市管一', 'accountIdcard': '111111111111111111', 'accountMobile': '13888888888', 'accountEmail': 'zhuy@qq.com', 'accountMemo': '测试专用账号，管理员02'}
+
+                    @@@@@@@       @@@        @@@
+                  @@@      @@@    @@@      @@@
+                 @@@        @@@   @@@    @@@
+                @@@          @@@  @@@ @@@
+                @@@          @@@  @@@@@
+                @@@          @@@  @@@ @@@
+                 @@@        @@@   @@@    @@@
+                  @@@      @@@    @@@      @@@
+                    @@@@@@@@      @@@        @@@
+        
+====================================executeTest END=========================================
+====================================envRecovery START=========================================
+====================================envRecovery END=========================================

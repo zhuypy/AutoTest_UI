@@ -1,0 +1,19 @@
+====================================envInit START ,time is 2008_08_15_16_20_22=========================================
+====================================initParam START=========================================
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 37]className is :JCWAutoTest0017
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 38]report_path is :D:\workspace\JCWAutoTest\testJCW\log\JCW\UT20190508
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 39]picture_path is :D:\workspace\JCWAutoTest\testJCW\log\JCW\UT20190508\JCWAutoTest0017
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 40]log_path is :D:\workspace\JCWAutoTest\testJCW\log\JCW\UT20190508\JCWAutoTest0017
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 41]log_file is :D:\workspace\JCWAutoTest\testJCW\log\JCW\UT20190508\JCWAutoTest0017\JCWAutoTest0017.log
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\jcwCase.py][line 42]test data is {'login': {'user': 'su', 'pwd': '11'}, 'createRole': {'roleName': '测试工程师', 'roleDesc': '自动化测试专用测试角色', 'roleLevel': '1'}}
+====================================initParam END=========================================
+====================================initBrowser START=========================================
+====================================initBrowser END=========================================
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 38]successful login 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 角色管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 64]search 测试工程师
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 116]sameDict is : {}

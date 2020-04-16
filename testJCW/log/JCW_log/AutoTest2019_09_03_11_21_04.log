@@ -1,0 +1,64 @@
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 44]successful login 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 组织管理 
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 98]dialog title is 添加组织架构
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 104]open dailog of 添加组织架构 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 90]set name:武昌区纪律检查委员会 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 90]set superior:{'superior1': '湖北', 'superior2': '武汉'} success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 90]set number:005 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 90]set desc:武昌区纪律检查委员会 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 90]set telephone:13888888888 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 90]set address:武昌区 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 90]set addressCode:武昌 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 44]successful login 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 角色管理 
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 46]dialog title is 添加角色
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 52]open dailog of 添加角色 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleName:内勤 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleDesc:内勤 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleLevel:1 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 46]dialog title is 添加角色
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 52]open dailog of 添加角色 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleName:科员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleDesc:科员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleLevel:2 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 46]dialog title is 添加角色
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 52]open dailog of 添加角色 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleName:主任 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleDesc:主任 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleLevel:3 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 46]dialog title is 添加角色
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 52]open dailog of 添加角色 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleName:分管常委 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleDesc:分管常委 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleLevel:4 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 46]dialog title is 添加角色
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 52]open dailog of 添加角色 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleName:分管书记 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleDesc:分管书记 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleLevel:5 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 46]dialog title is 添加角色
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 52]open dailog of 添加角色 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleName:书记 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleDesc:书记 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleLevel:9 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 44]successful login 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 账号管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 账号管理 
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:用户管理员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 109]set accountOrgId:湖北 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 115]set accountUsername:hbadmin success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 121]set accountName:湖北管理员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 128]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 134]set accountConfiremPassword:11 success
+[ERROR][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 168]invalid parameter oganize_ch
+[ERROR][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 168]invalid parameter oganize_tree
+[ERROR][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 168]invalid parameter admin_user
+[ERROR][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 168]invalid parameter admin_pwd
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 178]close dialog failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search hbadmin

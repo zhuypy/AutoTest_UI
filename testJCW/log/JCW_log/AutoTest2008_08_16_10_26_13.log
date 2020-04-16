@@ -1,0 +1,94 @@
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 38]successful login 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 账号管理 
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:用户管理员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 108]set accountOrgId:湖北 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 114]set accountUsername:hbadmin success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 120]set accountName:湖北管理员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 127]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 133]set accountConfiremPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search hbadmin
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 权限管理 
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 38]successful login 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 账号管理 
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:用户管理员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 108]set accountOrgId:武汉 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 114]set accountUsername:whadmin success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 120]set accountName:武汉管理员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 127]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 133]set accountConfiremPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search whadmin
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 权限管理 
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 38]successful login 
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['class_name', 'menu-list'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 账号管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 权限管理 
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 38]successful login 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 账号管理 
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:用户管理员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 108]set accountOrgId:汉阳 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 114]set accountUsername:hyadmin success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 120]set accountName:汉阳管理员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 127]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 133]set accountConfiremPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search hyadmin
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 权限管理 
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 38]successful login 
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['class_name', 'menu-list'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 账号管理 
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:用户管理员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 108]set accountOrgId:武昌 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 114]set accountUsername:wcadmin success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 120]set accountName:武昌管理员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 127]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 133]set accountConfiremPassword:11 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 177]close dialog failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search wcadmin
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 权限管理 
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\framework\superClass\htmlElement.py][line 30]finding element by selector1=['css_selector', 'div.input-wrapper:nth-child(3) > input:nth-child(2)'] ,selector2=None
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 38]successful login 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 账号管理 
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:用户管理员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 108]set accountOrgId:华容 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 114]set accountUsername:hradmin success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 120]set accountName:华容管理员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 127]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 133]set accountConfiremPassword:11 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 177]close dialog failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search hradmin
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 权限管理 

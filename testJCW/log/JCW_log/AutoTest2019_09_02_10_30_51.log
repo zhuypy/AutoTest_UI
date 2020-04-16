@@ -1,0 +1,27 @@
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 44]successful login 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 组织管理 
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 86]dialog title is 添加组织架构
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 92]open dailog of 添加组织架构 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set name:湖北省纪律检查委员会 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set superior:{'superior1': '无'} success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set number:001 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set desc:湖北省纪律检查委员会 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set telephone:13888888888 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set address:湖北省 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 86]dialog title is 添加组织架构
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 92]open dailog of 添加组织架构 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set name:武汉市纪律检查委员会 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set superior:{'superior1': '湖北'} success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set number:002 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set desc:武汉市纪律检查委员会 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set telephone:13888888888 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set address:武汉市 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 86]dialog title is 添加组织架构
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 92]open dailog of 添加组织架构 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set name:鄂州市纪律检查委员会 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set superior:{'superior1': '湖北'} success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set number:003 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set desc:鄂州市纪律检查委员会 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set telephone:13888888888 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\organize\organizeMainPage.py][line 78]set address:鄂州市 success

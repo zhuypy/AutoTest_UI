@@ -1,0 +1,12 @@
+1567480802412	geckodriver	INFO	geckodriver 0.19.1
+1567480802427	geckodriver	INFO	Listening on 127.0.0.1:26491
+1567480805469	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\zxq\\AppData\\Local\\Temp\\rust_mozprofile.H19nS06V9cJr"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1567480806386	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1567480808392	Marionette	INFO	Listening on port 27149
+1567480808772	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1567480884760	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1567480884770	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error

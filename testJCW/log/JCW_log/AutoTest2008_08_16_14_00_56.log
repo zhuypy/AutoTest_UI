@@ -1,0 +1,33 @@
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 38]successful login 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 角色管理 
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 46]dialog title is 添加角色
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 52]open dailog of 添加角色 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleName:内勤 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleDesc:内勤 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleLevel:1 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 46]dialog title is 添加角色
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 52]open dailog of 添加角色 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleName:科员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleDesc:科员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleLevel:2 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 46]dialog title is 添加角色
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 52]open dailog of 添加角色 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleName:主任 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleDesc:主任 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleLevel:3 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 46]dialog title is 添加角色
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 52]open dailog of 添加角色 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleName:分管常委 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleDesc:分管常委 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleLevel:4 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 46]dialog title is 添加角色
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 52]open dailog of 添加角色 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleName:分管书记 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleDesc:分管书记 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleLevel:5 success
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 46]dialog title is 添加角色
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 52]open dailog of 添加角色 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleName:书记 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleDesc:书记 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\role\roleMainPage.py][line 95]set roleLevel:9 success

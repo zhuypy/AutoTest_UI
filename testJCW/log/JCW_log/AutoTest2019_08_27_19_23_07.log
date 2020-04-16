@@ -1,0 +1,33 @@
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 35]logging in ,wait pls
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\loginPage.py][line 38]successful login 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 账号管理 
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 70]dialog title is 添加账号
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 76]open dailog of 添加账号 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 101]set accountType:用户管理员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 109]set accountOrgId:武昌 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 115]set accountUsername:wcadmin success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 121]set accountName:武昌管理员 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 128]set accountPassword:11 success
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 134]set accountConfiremPassword:11 success
+[ERROR][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 168]invalid parameter oganize_ch
+[ERROR][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 168]invalid parameter oganize_tree
+[ERROR][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 168]invalid parameter admin_user
+[ERROR][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 168]invalid parameter admin_pwd
+[Debug][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 178]close dialog failed
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\system\user\accountMainPage.py][line 52]search wcadmin
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 系统管理 
+[INFO][common][D:\workspace\JCWAutoTest\testJCW\action\mainPage.py][line 31]the current page is 权限管理 
